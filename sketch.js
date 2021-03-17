@@ -33,4 +33,6 @@ function draw(){
     box1.display();
     box2.display();
 
+   console.log("hello world")
+   console.log("print")
 } 
